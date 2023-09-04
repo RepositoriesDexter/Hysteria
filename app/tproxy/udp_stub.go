@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/RepositoriesDexter/Hysteria/core/cs"
 )
 
 var ErrTimeout = errors.New("inactivity timeout")
