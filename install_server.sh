@@ -933,7 +933,7 @@ perform_install() {
     echo
     echo -e "$(tbold)Hysteria has been successfully update to $VERSION.$(treset)"
     echo
-    echo -e "Check out the latest changelog $(tblue)https://github.com/apernet/hysteria/blob/master/CHANGELOG.md$(treset)"
+    echo -e "Check out the latest changelog $(tblue)https://github.com/RepositoriesDexter/Hysteria/blob/master/CHANGELOG.md$(treset)"
     echo
   fi
 }
