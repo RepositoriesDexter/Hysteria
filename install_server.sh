@@ -575,7 +575,7 @@ parse_arguments() {
         fi
         shift
         if ! has_prefix "$VERSION" 'v'; then
-          show_argument_error_and_exit "Version numbers should begin with 'v' (such like 'v1.3.1'), got '$VERSION'"
+          show_argument_error_and_exit "Version numbers should begin with 'v' (such like 'v1.3.5'), got '$VERSION'"
         fi
         ;;
       '-c' | '--check')
