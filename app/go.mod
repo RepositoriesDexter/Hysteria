@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/LiamHaworth/go-tproxy v0.0.0-20190726054950-ef7efd7f24ed
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
-	github.com/apernet/hysteria/core v0.0.0-00010101000000-000000000000
+	github.com/RepositoriesDexter/Hysteria/core v0.0.0-00010101000000-000000000000
 	github.com/caddyserver/certmagic v0.17.2
 	github.com/docker/go-units v0.5.0
 	github.com/elazarl/goproxy v0.0.0-20221015165544-a0805db90819
@@ -88,7 +88,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/apernet/hysteria/core => ../core/
+replace github.com/RepositoriesDexter/Hysteria/core => ../core/
 
 replace github.com/quic-go/quic-go => github.com/apernet/quic-go v0.34.1-0.20230507231629-ec008b7e8473
 
