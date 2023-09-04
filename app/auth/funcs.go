@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/RepositoriesDexter/Hysteria/core/cs"
 	"github.com/yosuke-furukawa/json5/encoding/json5"
 )
 
