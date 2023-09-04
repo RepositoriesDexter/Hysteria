@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/apernet/hysteria/core/acl"
-	"github.com/apernet/hysteria/core/transport"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/RepositoriesDexter/Hysteria/core/acl"
+	"github.com/RepositoriesDexter/Hysteria/core/transport"
+	"github.com/RepositoriesDexter/Hysteria/core/utils"
 	"github.com/lunixbochs/struc"
 	"github.com/quic-go/quic-go"
 )
