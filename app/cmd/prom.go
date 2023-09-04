@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/RepositoriesDexter/Hysteria/core/cs"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
