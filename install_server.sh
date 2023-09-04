@@ -30,8 +30,8 @@ SYSTEMD_SERVICES_DIR="/etc/systemd/system"
 CONFIG_DIR="/etc/hysteria"
 
 # URLs of GitHub
-REPO_URL="https://github.com/DexterRepositories/Hysteria"
-API_BASE_URL="https://api.github.com/repos/DexterRepositories/Hysteria"
+REPO_URL="https://github.com/RepositoriesDexter/Hysteria"
+API_BASE_URL="https://api.github.com/repos/RepositoriesDexter/Hysteria"
 
 # curl command line flags.
 # To using a proxy, please specify ALL_PROXY in the environ variable, such like:
