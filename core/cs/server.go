@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/apernet/hysteria/core/congestion"
+	"github.com/RepositoriesDexter/Hysteria/core/congestion"
 
-	"github.com/apernet/hysteria/core/acl"
-	"github.com/apernet/hysteria/core/pmtud"
-	"github.com/apernet/hysteria/core/transport"
+	"github.com/RepositoriesDexter/Hysteria/core/acl"
+	"github.com/RepositoriesDexter/Hysteria/core/pmtud"
+	"github.com/RepositoriesDexter/Hysteria/core/transport"
 	"github.com/lunixbochs/struc"
 	"github.com/quic-go/quic-go"
 )
