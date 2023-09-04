@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/apernet/hysteria/core/acl"
-	"github.com/apernet/hysteria/core/cs"
-	"github.com/apernet/hysteria/core/transport"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/RepositoriesDexter/Hysteria/acl"
+	"github.com/RepositoriesDexter/Hysteria/cs"
+	"github.com/RepositoriesDexter/Hysteria/transport"
+	"github.com/RepositoriesDexter/Hysteria/utils"
 )
 
 import (
