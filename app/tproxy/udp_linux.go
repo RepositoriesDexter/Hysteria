@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/LiamHaworth/go-tproxy"
-	"github.com/apernet/hysteria/core/cs"
+	"github.com/RepositoriesDexter/Hysteria/core/cs"
 )
 
 const udpBufferSize = 4096
