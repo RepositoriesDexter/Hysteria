@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/apernet/hysteria/core/pktconns/obfs"
+	"github.com/RepositoriesDexter/Hysteria/core/pktconns/obfs"
 )
 
 const (
