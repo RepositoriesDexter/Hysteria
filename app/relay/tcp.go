@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/apernet/hysteria/core/cs"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/RepositoriesDexter/Hysteria/core/cs"
+	"github.com/RepositoriesDexter/Hysteria/core/utils"
 )
 
 type TCPRelay struct {
