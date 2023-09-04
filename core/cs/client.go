@@ -12,12 +12,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/apernet/hysteria/core/pktconns"
+	"github.com/RepositoriesDexter/Hysteria/core/pktconns"
 
-	"github.com/apernet/hysteria/core/congestion"
+	"github.com/RepositoriesDexter/Hysteria/core/congestion"
 
-	"github.com/apernet/hysteria/core/pmtud"
-	"github.com/apernet/hysteria/core/utils"
+	"github.com/RepositoriesDexter/Hysteria/core/pmtud"
+	"github.com/RepositoriesDexter/Hysteria/core/utils"
 	"github.com/lunixbochs/struc"
 	"github.com/quic-go/quic-go"
 )
