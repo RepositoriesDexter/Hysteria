@@ -7,15 +7,15 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/apernet/hysteria/app/auth"
+	"github.com/RepositoriesDexter/Hysteria/app/auth"
 
-	"github.com/apernet/hysteria/core/pktconns"
+	"github.com/RepositoriesDexter/Hysteria/core/pktconns"
 
-	"github.com/apernet/hysteria/core/acl"
-	"github.com/apernet/hysteria/core/cs"
-	"github.com/apernet/hysteria/core/pmtud"
-	"github.com/apernet/hysteria/core/sockopt"
-	"github.com/apernet/hysteria/core/transport"
+	"github.com/RepositoriesDexter/Hysteria/core/acl"
+	"github.com/RepositoriesDexter/Hysteria/core/cs"
+	"github.com/RepositoriesDexter/Hysteria/core/pmtud"
+	"github.com/RepositoriesDexter/Hysteria/sockopt"
+	"github.com/RepositoriesDexter/Hysteria/core/transport"
 	"github.com/oschwald/geoip2-golang"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
