@@ -1,0 +1,13 @@
+{
+  "listen": ":5666",
+  "cert": "/etc/hysteria/dexter.crt",
+  "key": "/etc/hysteria/dexter.key",
+  "up_mbps": 100,
+  "down_mbps": 100,
+  "disable_udp": false,
+  "obfs": "dex",
+  "auth": {
+    "mode": "passwords",
+    "config": ["mtkvpn"]
+  }
+}
